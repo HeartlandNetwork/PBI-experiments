@@ -9,5 +9,5 @@ Deckler, G. and B. Powell. 2024. Microsoft Power BI Cookbook, 3rd edition. Packt
 
 20250102
 
-Install SQL Server 2022 Developer Edition and SSMS 2022
+Install SQL Server 2022 Developer Edition and SSMS 20
 
